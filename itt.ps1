@@ -12973,6 +12973,7 @@ $AboutWindowXaml = '<Window
                 <StackPanel Margin="25">
                   <TextBlock Text=''emadadel4'' Margin=''1'' Foreground=''{DynamicResource TextColorSecondaryColor2}'' />
 <TextBlock Text=''yousefmhmd'' Margin=''1'' Foreground=''{DynamicResource TextColorSecondaryColor2}'' />
+<TextBlock Text=''Wh0ami010'' Margin=''1'' Foreground=''{DynamicResource TextColorSecondaryColor2}'' />
 
                 </StackPanel>
 
@@ -13030,13 +13031,13 @@ function Show-Event {
         
 
     
-            $itt.event.FindName('ps').add_MouseLeftButtonDown({
-                    Start-Process('https://www.palestinercs.org/en/Donation')
+            $itt.event.FindName('gpu').add_MouseLeftButtonDown({
+                    Start-Process('https://github.com/user-attachments/assets/9651da4b-c69b-441d-a912-fb6213de73fb')
                 })
             
             
-            $itt.event.FindName('gpu').add_MouseLeftButtonDown({
-                    Start-Process('https://github.com/user-attachments/assets/9651da4b-c69b-441d-a912-fb6213de73fb')
+            $itt.event.FindName('shell').add_MouseLeftButtonDown({
+                    Start-Process('https://github.com/emadadel4/shelltube')
                 })
             
             
@@ -13045,8 +13046,8 @@ function Show-Event {
                 })
             
             
-            $itt.event.FindName('shell').add_MouseLeftButtonDown({
-                    Start-Process('https://github.com/emadadel4/shelltube')
+            $itt.event.FindName('ps').add_MouseLeftButtonDown({
+                    Start-Process('https://www.palestinercs.org/en/Donation')
                 })
             
             
